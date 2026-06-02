@@ -183,7 +183,7 @@ It goes beyond basic deployment by **testing how systems behave under failure**.
 
 ## 👩‍💻 Author
 
-**Isha Singh**
+**Divya Azad**
 3rd Year CSE Undergraduate | Jaypee Institute of Information Technology,Noida,Sector-62
 
 ---
